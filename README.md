@@ -45,12 +45,10 @@ Lobbies run through free public servers, so there is nothing to host. You can po
 
 ## Getting started
 
-1. Download `os.html`.
+1. Download `WebOS.html`.
 2. Open it in any modern browser.
 
 That's it. You can also host it on any static site (for example GitHub Pages). Hosting it over `https` is recommended because the YouTube player works best from a normal web address.
-
-To use it as an Android app, wrap `os.html` with any HTML-to-APK tool.
 
 ## Privacy and notes
 
