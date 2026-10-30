@@ -73,3 +73,5 @@ That's it. You can also host it on any static site (for example GitHub Pages). H
 ## Feedback
 
 Found a bug or have an idea? Open an issue.
+
+NOTE: THIS APP/GAME IS VIBECODED
